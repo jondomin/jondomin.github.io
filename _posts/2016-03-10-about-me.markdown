@@ -1,0 +1,52 @@
+---
+layout: post
+title: About Me
+date: '2016-03-10 17:15:07'
+---
+
+##Biography
+My name is Jonathan Dominguez.  I'm a web/mobile developer in Chicago, IL.  I've spent many years in the industry focusing on .NET development, Xamarin Mobile development, and general web development.   I hope you enjoy your stay here.
+
+##Purpose and Passion
+Finding a purpose has been no easy task, but I have focused on the following:
+
+> * Make a positive impact in the community
+* Constantly learn new things
+* Stay healthy
+* Make something
+* And above all else do good
+
+It is my hope that this blog will be the means in which I'm able to share some experiences and achieve fulfill my goals.
+
+##This blog
+So what will I share, and who does this apply to? Well, I am going to be sharing what I know on the following:
+
+> * Development
+* Health and Fitness
+* Fatherhood
+* Technology
+	
+
+##Developer life
+I have a B.S. Computer Science degree and a  P.M.S. Computer Information Systems.  I am currently a  Technical Architect. That essentially means I build some big web and mobile application, while overseeing a technical team throughout the build of a project.  I love my job and the challenges I'm faced with everyday. I'm a problem solver and maker.
+
+##Health and Fitness
+So, I don't have any official certifications on nutrition or fitness, however I wanted to share my approaches to fitness.  My workout regiment is focused around constantly varied functional movements at relatively high intensity, which is more commonly known as Crossfit.  It draws upon the best aspects of gymnastics, weightlifting, running, rowing, and varied conditioning exercises. It is something that requires both strength and skill, and there is always room for improvement which I like. 
+
+About 2 years ago I was a very unhealthy person, and one day it hit me...
+>I have to change, be better for my family, be an example of a healthy life, and be on this Earth as long as possible.
+
+Since that revelation I lost 30 lbs, through the magic of nutrition and Crossfit.  
+
+Many people, when they first step into the Crossfit box, assume that competition level athletes are just naturally good and were "born with it".  While genetics play a part, it really is about hard work and putting the time in.  When I first started Crossfit I started at ground zero.  I could barely squat properly when I started, couldn't pick up a barbell correctly, and was nearly rolling on the floor dying after like 20 burpees.  Now I'm working with the top level athletes in the box and have vastly improved.  I feel like I can provide some guidance for those starting from nothing, and getting to a high level of Crossfit performance.
+
+## Fatherhood
+I became a father at a fairly young age, 24.  At the time of writing this I have a 4 year old daughter and 2 year old son.  I am very very blessed.  When my wife and I were dating we decided early on that if we got married that we would have kids young.  Fortunately we were able to follow through with that plan. I admit though, it isn't always easy.  But it is the most rewarding part of my life.  I'll share my tips and tricks that I've learned over the years.
+
+## Technologic… Technologic
+I love tech stuff.  When I played Mass Effect I chose the engineer class.  I hacked my way through that game, literally.  It was a blast.  I have always been a huge geek.  I will be talking about tech stuff like raspberry pies, A.I., bots, mobile devices, and gadgets.
+
+##Thanks!
+Whelp, that about covers it. Hope you enjoy your stay.
+
+<iframe src="//giphy.com/embed/UWFfiDzt6qIh2?html5=true" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/game-of-thrones-got-UWFfiDzt6qIh2">via GIPHY</a></p>

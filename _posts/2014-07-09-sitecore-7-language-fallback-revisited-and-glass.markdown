@@ -26,12 +26,12 @@ The Language Fallback concept is simple. When an item you are requesting in a sp
 
 To do so I downloaded the Source for Dmitry Kostenko’s Language Fallback Item Provider module.
 
-![language fallback](/content/images/2016/04/2015-03-25-10_19_36-Language-Fallback-Sitecore-Marketplace-1024x678.png)
+![language fallback](/img/2016/04/2015-03-25-10_19_36-Language-Fallback-Sitecore-Marketplace-1024x678.png)
 
 
 Once added the Visual Studio project to my solution I had to change the Target Framework to 4.5 to be compatible with Sitecore 7 and Sitecore Kernel.  To do so edit the Properties of the project.
 
-![Net Framework 4.5](/content/images/2016/04/2014-07-09-10_44_18-BCU-Microsoft-Visual-Studio-Administrator.png)
+![Net Framework 4.5](/img/2016/04/2014-07-09-10_44_18-BCU-Microsoft-Visual-Studio-Administrator.png)
 
 From there I installed the package that is provided in the source zip, setup the English fallback on my Spanish language item under /sitecore/system/languages, and tested it out.
 

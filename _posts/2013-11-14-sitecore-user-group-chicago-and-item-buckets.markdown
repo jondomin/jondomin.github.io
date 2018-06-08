@@ -28,9 +28,6 @@ Pre-Sitecore 7 you would have to create a folder structure in the content editor
 
 Enter Item Buckets. Item buckets solve this problem and change the way we think of designing our tree structure. In the News Articles example above, you can do away with the unnecessary 2013/11/13 folders an just create News Articles under the News Bucket. Converting the News folder to an item bucket changes the experience in the content editor. You now are presented with a new interface to search for a News Articles in your bucket and are presented with a nice listing with pagination and Facet Filtering.
 
-[![AdminListing](http://jonathandeveloper.com/wp-content/uploads/2013/11/AdminListing-1024x663.png)](http://jonathandeveloper.com/wp-content/uploads/2013/11/AdminListing.png)
-
-
 ## Pros and Cons
 
 Really, I’ve only seen amazing things with Sitecore 7 and Item buckets.  Some of the new features include:

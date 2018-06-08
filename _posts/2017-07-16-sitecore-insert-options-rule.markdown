@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sitecore Insert Options Rule
-image: "/content/images/2017/10/InsertRules.png"
+image: "/img/2017/10/InsertRules.png"
 date: '2017-07-16 17:40:00'
 tags:
 - sitecore

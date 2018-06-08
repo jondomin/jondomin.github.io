@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sitecore Upgrade Strategies
-image: http://jonathandeveloper.com/wp-content/uploads/2014/10/sitecore_user_group.png
 date: '2014-10-15 09:30:13'
 tags:
 - sitecore-7-5

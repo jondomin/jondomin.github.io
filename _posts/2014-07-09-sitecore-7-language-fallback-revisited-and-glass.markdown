@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sitecore 7 Language Fallback Revisited and Glass
-image: http://jonathandeveloper.com/wp-content/uploads/2014/07/2014-07-09-09_44_21-Language-Fallback-Sitecore-Marketplace.png
 date: '2014-07-09 12:03:43'
 tags:
 - glass-mapper
@@ -9,7 +8,6 @@ tags:
 - sitecore
 - language-fallback
 ---
-
 
 I recently implemented Language Fallback on a Sitecore 7.1 site and decided to share some of the things I ran into.   Like with all things programming, this may not be the best solution, however this may give you some guidance as to how to handle some of the same problems when implementing this in Sitecore 7.1.
 

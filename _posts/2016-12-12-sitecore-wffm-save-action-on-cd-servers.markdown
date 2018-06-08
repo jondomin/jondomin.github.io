@@ -39,7 +39,7 @@ Save Actions that you want to execute on the CD servers need to be set to do so.
 Go to your Custom Save action and check the “Client Action”
 
 
-![Client Action Save Action](/content/images/2016/12/image00.png)
+![Client Action Save Action](/img/2016/12/image00.png)
 
 While this does put some extra load on your CD server it will execute the Save Action immediately when the form submission occurs on the CD server.
 

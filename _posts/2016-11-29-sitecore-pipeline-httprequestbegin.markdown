@@ -37,7 +37,7 @@ I recently created a 301 Redirect Processor which executes 301 redirects under s
 
 however, at the same point the following week I realized the Sitecore Experienced Editor would load very slowly, around 30 seconds on each load. Yikes!
 
-![Sitecore Experience Editor](/content/images/2016/11/image00.png)
+![Sitecore Experience Editor](/img/2016/11/image00.png)
 
 
 After some diagnostics, I realized that all .js and .css files in the Experience Editor were taking a few seconds to load.  I found out that the 301 Redirect processor was the first processor registered in the `<httpRequestBegin>` pipeline.

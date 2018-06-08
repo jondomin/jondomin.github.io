@@ -13,7 +13,7 @@ There are two ways to configure insert options.  The first and is the typical wa
 
 *Configure -> Assign Insert Options*.
 
-![](/content/images/2017/10/AssignInsertOption.png)
+![](/img/2017/10/AssignInsertOption.png)
 
 ## Insert Option Rules
 The second way, which is probably the lesser known way, is to configure insert options through the system rules.
@@ -24,7 +24,7 @@ This is found here:
 
 In this folder you can create custom rules like so
 
-![](/content/images/2017/10/InsertRules.png)
+![](/img/2017/10/InsertRules.png)
 
 ## The Benefit
 

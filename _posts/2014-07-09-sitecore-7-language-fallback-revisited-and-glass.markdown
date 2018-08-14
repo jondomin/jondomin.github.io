@@ -48,14 +48,14 @@ scContext.CreateType(type, item, false, false, null);
 
 Snippet below:
 
-<script src="https://gist.github.com/jldeveloper27/fae4d88ee40ae08957de412c682e68c1.js"></script>
+<script src="https://gist.github.com/jondomin/fae4d88ee40ae08957de412c682e68c1.js"></script>
 
 
 ## Solution
 
 I simply modified the **LanguageFallbackitemProvider.cs ** **GetItem **method
 
-<script src="https://gist.github.com/jldeveloper27/7d5579ddda6ed4a0e8d46e65ad87977a.js"></script>
+<script src="https://gist.github.com/jondomin/7d5579ddda6ed4a0e8d46e65ad87977a.js"></script>
 
 Since we didn’t need the extra properties that StubItem class gave us we simply just returned the fallback item instead.
 

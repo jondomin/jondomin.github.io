@@ -51,7 +51,7 @@ This was executing even if it was a physical file, and it would check if there w
 With those simple changes the response times for physical files went from **200 ms** to less than **1 ms**
 
 ###Sitecore Example Patch
-><script src="https://gist.github.com/jldeveloper27/06c40788f9a110736bd6f4a5c2736010.js"></script>
+><script src="https://gist.github.com/jondomin/06c40788f9a110736bd6f4a5c2736010.js"></script>
 
 ##Conclusion
 If you are experiencing issues on each and every page request, look for any custom processors in your pipelines for they may be the culprit.

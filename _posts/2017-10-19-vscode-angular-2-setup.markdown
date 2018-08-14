@@ -9,7 +9,7 @@ date: '2017-10-19 18:28:53'
 3. Copy the contents below into the configurations array of the launch.json file.
 4. Start ng development server (ng serve)
 
-<script src="https://gist.github.com/jldeveloper27/f5c3f4e29b7dda76ec297254701a8b9c.js"></script>
+<script src="https://gist.github.com/jondomin/f5c3f4e29b7dda76ec297254701a8b9c.js"></script>
 
 Press F5/Debug and you should now be able to debug the solution
 
